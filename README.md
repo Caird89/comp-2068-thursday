@@ -1,2 +1,2 @@
 # comp-2068-thursday
-JS Framework
+A blogging platform
